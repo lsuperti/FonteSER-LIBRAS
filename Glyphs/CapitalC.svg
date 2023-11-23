@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58335 264.58335"
+   version="1.1"
+   id="svg21229"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="CapitalC.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21231"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.52724989"
+     inkscape:cx="-85.348524"
+     inkscape:cy="648.64878"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="0,52.91667"
+       orientation="0,1"
+       id="guide572"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="13.229167,264.58335"
+       orientation="-1,0"
+       id="guide3492"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="145.01864,101.74349"
+       orientation="-1,0"
+       id="guide3494"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,79.375005"
+       orientation="0,1"
+       id="guide3496"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs21226" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-143.83362,-154.6238)">
+    <path
+       style="color:#000000;fill:#000000;stroke-width:4.2135;-inkscape-stroke:none"
+       d="m 208.57943,207.54667 c -19.85915,0.27641 -38.97685,9.51164 -51.51664,25.8159 l 3.36587,2.58405 c 15.65513,-20.35482 42.22701,-28.92398 66.82348,-21.55301 24.59642,7.37096 42.07853,29.14822 43.96192,54.759 1.88339,25.61082 -12.22379,49.70314 -35.47733,60.59373 -23.2535,10.89059 -50.79507,6.29918 -69.25938,-11.54596 l -2.95438,3.05315 c 19.71993,19.05866 49.18101,23.96726 74.01601,12.33598 24.83503,-11.63123 39.91649,-37.39745 37.90505,-64.74962 -2.01148,-27.35214 -20.70462,-50.63935 -46.97394,-58.51163 -6.56733,-1.96809 -13.27096,-2.87365 -19.89066,-2.78159 z"
+       id="path21161" />
+  </g>
+</svg>
