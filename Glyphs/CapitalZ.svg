@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="453.25544"
-     inkscape:cy="354.9676"
+     inkscape:cx="-33.941126"
+     inkscape:cy="444.06306"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -34,13 +34,6 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true">
-    <sodipodi:guide
-       position="4.0825208,243.00517"
-       orientation="-1,0"
-       id="guide577"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
        position="0,52.916666"
        orientation="0,1"
@@ -61,14 +54,21 @@
        id="guide2894"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="191.35422,207.54462"
+       position="204.58342,207.61232"
        orientation="1,0"
        id="guide3245"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="200.61464,207.54462"
+       position="13.229166,264.58333"
        orientation="-1,0"
-       id="guide3247"
+       id="guide249"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="217.81259,207.61232"
+       orientation="-1,0"
+       id="guide1475"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
@@ -90,13 +90,13 @@
      id="layer1"
      transform="translate(-75.012206,-125.79416)">
     <path
-       d="m 143.20209,333.45507 c -36.5436,0 -66.145944,-29.81017 -66.145944,-66.15412 0,-36.34395 29.602344,-66.15412 66.145944,-66.15412 36.54359,0 66.14595,29.606 66.14595,66.15412 0,36.54812 -29.80653,66.15412 -66.14595,66.15412 z m 0,-128.22466 c -34.2979,0 -62.062859,27.76838 -62.062859,62.07054 0,34.30212 27.764959,62.07054 62.062859,62.07054 34.29791,0 62.06288,-27.76842 62.06288,-62.07054 -4e-5,-34.30216 -27.96914,-62.07054 -62.06288,-62.07054 z"
+       d="m 156.43124,333.38737 c -36.5436,0 -66.145933,-29.81017 -66.145933,-66.15412 0,-36.34395 29.602333,-66.15412 66.145933,-66.15412 36.54359,0 66.14595,29.606 66.14595,66.15412 0,36.54812 -29.80653,66.15412 -66.14595,66.15412 z m 0,-128.22466 c -34.2979,0 -62.062851,27.76838 -62.062851,62.07054 0,34.30212 27.764951,62.07054 62.062851,62.07054 34.29791,0 62.06288,-27.76842 62.06288,-62.07054 -4e-5,-34.30216 -27.96914,-62.07054 -62.06288,-62.07054 z"
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.04167"
        id="path2062" />
     <g
        id="path391"
        style="display:inline;fill:#ff0000"
-       transform="matrix(3.775282,0,0,3.7757493,-206.7513,-349.1494)">
+       transform="matrix(3.775282,0,0,3.7757493,-193.52215,-349.2171)">
       <path
          style="color:#000000;fill:#ff0000;stroke-linejoin:bevel;-inkscape-stroke:none"
          d="m 120.94831,129.18043 h -12.08142 v 3.11511 h 6.72769 l -7.01196,7.45022 v 2.73608 l 14.5016,0.0396 -0.0664,-3.2539 -8.97487,0.0399 6.90536,-7.43837 z"
@@ -105,7 +105,7 @@
     </g>
     <g
        id="g2653"
-       transform="matrix(0.31963735,0,0,0.31963775,-1156.5423,-484.46807)"
+       transform="matrix(0.31963735,0,0,0.31963775,-1143.3131,-484.53577)"
        style="fill:#ff0000">
       <g
          id="g2655"
@@ -127,8 +127,8 @@
        id="rect3243"
        width="4.0825195"
        height="136.3165"
-       x="72.915123"
-       y="127.08824"
+       x="86.143593"
+       y="127.2399"
        transform="rotate(-0.95)" />
   </g>
 </svg>

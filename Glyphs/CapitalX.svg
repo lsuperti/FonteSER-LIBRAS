@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.37282197"
-     inkscape:cx="264.20117"
-     inkscape:cy="150.20574"
+     inkscape:zoom="0.26362494"
+     inkscape:cx="440.01906"
+     inkscape:cy="-220.00953"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -61,6 +61,13 @@
        id="guide2968"
        inkscape:locked="false"
        inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="189.96686,203.26748"
+       orientation="-1,0"
+       id="guide2611"
+       inkscape:label=""
+       inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
   <defs

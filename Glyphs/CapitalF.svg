@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.74564396"
-     inkscape:cx="356.06806"
-     inkscape:cy="447.93496"
+     inkscape:zoom="0.37282198"
+     inkscape:cx="327.23393"
+     inkscape:cy="407.70128"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -49,23 +49,23 @@
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="225.43969,174.00524"
+       position="223.48355,139.89444"
        orientation="1,0"
        id="guide4720"
        inkscape:locked="false" />
-    <sodipodi:guide
-       position="238.66886,174.00524"
-       orientation="-1,0"
-       id="guide4774"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
        position="13.229167,264.58333"
        orientation="-1,0"
        id="guide5071"
        inkscape:locked="false"
        inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="236.71272,139.89444"
+       orientation="-1,0"
+       id="guide1220"
+       inkscape:label=""
+       inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
   <defs
@@ -80,43 +80,43 @@
        id="rect9157"
        width="4.0793271"
        height="66.236649"
-       x="174.82179"
-       y="103.87108"
+       x="172.94269"
+       y="104.13851"
        transform="rotate(8.1)" />
     <rect
        style="fill:#000000;stroke-width:3.94999"
        id="rect9522"
        width="3.9125707"
        height="63.528709"
-       x="230.38202"
-       y="72.597755"
+       x="228.54329"
+       y="73.068489"
        transform="rotate(14.36)" />
     <rect
        style="fill:#000000;stroke-width:3.94999"
        id="rect9524"
        width="3.9125671"
        height="64.611702"
-       x="284.68704"
-       y="46.329502"
+       x="282.92194"
+       y="47.027283"
        transform="rotate(21.57)" />
     <rect
        style="fill:#000000;stroke-width:3.94999"
        id="rect9526"
        width="3.9125671"
        height="95.340759"
-       x="248.1347"
-       y="-74.796997"
+       x="247.82764"
+       y="-72.923973"
        transform="rotate(80.69)" />
     <rect
        style="fill:#000000;stroke-width:3.94999"
        id="rect9528"
        width="3.6022339"
        height="95.962082"
-       x="164.73878"
-       y="-250.28563"
+       x="165.77917"
+       y="-248.69815"
        transform="rotate(123.24)" />
     <path
-       d="m 177.22252,318.30218 c -36.54354,0 -66.14585,-29.80649 -66.14585,-66.14586 0,-36.33936 29.60231,-66.14581 66.14585,-66.14581 36.54351,0 66.14582,29.60231 66.14582,66.14581 0,36.54359 -29.80645,66.14586 -66.14582,66.14586 z m 0,-128.2086 c -34.29787,0 -62.06278,27.76491 -62.06278,62.06274 0,34.29784 27.76491,62.06275 62.06278,62.06275 34.29784,0 62.06275,-27.76491 62.06275,-62.06275 -4e-5,-34.29783 -27.96909,-62.06274 -62.06275,-62.06274 z"
+       d="m 175.32449,318.30218 c -36.54354,0 -66.14585,-29.80649 -66.14585,-66.14586 0,-36.33936 29.60231,-66.14581 66.14585,-66.14581 36.54351,0 66.14582,29.60231 66.14582,66.14581 0,36.54359 -29.80645,66.14586 -66.14582,66.14586 z m 0,-128.2086 c -34.29787,0 -62.06278,27.76491 -62.06278,62.06274 0,34.29784 27.76491,62.06275 62.06278,62.06275 34.29784,0 62.06275,-27.76491 62.06275,-62.06275 -4e-5,-34.29783 -27.96909,-62.06274 -62.06275,-62.06274 z"
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.04154"
        id="path962-1"
        sodipodi:nodetypes="ssssssssss" />
