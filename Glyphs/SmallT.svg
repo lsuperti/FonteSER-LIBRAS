@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.52724989"
-     inkscape:cx="227.59606"
-     inkscape:cy="424.84599"
+     inkscape:cx="-226.64775"
+     inkscape:cy="314.84122"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -64,6 +64,13 @@
        position="192.08819,132.38432"
        orientation="-1,0"
        id="guide1618"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="19.774958,264.58333"
+       orientation="-1,0"
+       id="guide4536"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
@@ -105,19 +112,19 @@
        transform="rotate(21.569995)" />
     <rect
        style="fill:#000000;stroke-width:3.15999"
-       id="rect1876"
-       width="3.2723634"
-       height="76.307556"
-       x="308.58179"
-       y="-141.1302"
-       transform="rotate(80.689998)" />
-    <rect
-       style="fill:#000000;stroke-width:3.15999"
        id="rect1880"
        width="3.2723625"
        height="76.935127"
        x="157.7881"
        y="-334.73929"
        transform="rotate(123.24001)" />
+    <rect
+       style="fill:#000000;stroke-width:3.94999"
+       id="rect4538"
+       width="6.5458069"
+       height="77.162155"
+       x="-313.49088"
+       y="64.822655"
+       transform="rotate(-99.31)" />
   </g>
 </svg>

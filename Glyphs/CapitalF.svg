@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.37282198"
-     inkscape:cx="327.23393"
-     inkscape:cy="407.70128"
+     inkscape:zoom="1.0544998"
+     inkscape:cx="-41.251786"
+     inkscape:cy="298.71983"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -64,6 +64,25 @@
        position="236.71272,139.89444"
        orientation="-1,0"
        id="guide1220"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="94.234956,113.46091"
+       orientation="0.54814726,0.83638184"
+       id="guide3734"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="98.524959,115.32804"
+       orientation="1,0"
+       id="guide3789"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.055542,264.58333"
+       orientation="-1,0"
+       id="guide3840"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,134,229)" />
@@ -107,18 +126,16 @@
        x="247.82764"
        y="-72.923973"
        transform="rotate(80.69)" />
-    <rect
-       style="fill:#000000;stroke-width:3.94999"
-       id="rect9528"
-       width="3.6022339"
-       height="95.962082"
-       x="165.77917"
-       y="-248.69815"
-       transform="rotate(123.24)" />
     <path
        d="m 175.32449,318.30218 c -36.54354,0 -66.14585,-29.80649 -66.14585,-66.14586 0,-36.33936 29.60231,-66.14581 66.14585,-66.14581 36.54351,0 66.14582,29.60231 66.14582,66.14581 0,36.54359 -29.80645,66.14586 -66.14582,66.14586 z m 0,-128.2086 c -34.29787,0 -62.06278,27.76491 -62.06278,62.06274 0,34.29784 27.76491,62.06275 62.06278,62.06275 34.29784,0 62.06275,-27.76491 62.06275,-62.06275 -4e-5,-34.29783 -27.96909,-62.06274 -62.06275,-62.06274 z"
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.04154"
        id="path962-1"
        sodipodi:nodetypes="ssssssssss" />
+    <path
+       id="rect3842"
+       style="fill:#000000;stroke-width:3.94999"
+       transform="rotate(-56.76)"
+       d="m -171.49347,152.73607 7.82637,0 v 93.8324 l -7.82637,5.12924 z"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
