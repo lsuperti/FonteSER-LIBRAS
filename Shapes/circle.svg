@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.0544998"
-     inkscape:cx="495.96976"
-     inkscape:cy="408.25044"
+     inkscape:cx="495.96975"
+     inkscape:cy="408.25043"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -89,11 +89,9 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-6.9272639,-79.57655)">
-    <circle
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:6.61458;stroke-dasharray:none;stroke-opacity:0.497368"
-       id="path1"
-       cx="139.21893"
-       cy="211.86821"
-       r="49.609375" />
+    <path
+       style="color:#000000;fill:#ff0000;fill-opacity:0.497368;fill-rule:evenodd;-inkscape-stroke:none"
+       d="m 139.21875,158.95117 c -29.18586,0 -52.916016,23.73211 -52.916016,52.91797 0,29.18586 23.730156,52.91602 52.916016,52.91602 29.18586,0 52.91602,-23.73016 52.91602,-52.91602 0,-29.18586 -23.73016,-52.91797 -52.91602,-52.91797 z m 0,6.61524 c 25.61108,0 46.30273,20.69165 46.30273,46.30273 0,25.61108 -20.69165,46.30078 -46.30273,46.30078 -25.61108,0 -46.302734,-20.6897 -46.302734,-46.30078 0,-25.61108 20.691654,-46.30273 46.302734,-46.30273 z"
+       id="path1" />
   </g>
 </svg>
