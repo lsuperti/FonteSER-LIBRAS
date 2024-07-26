@@ -1,0 +1,30 @@
+# The SER-Libras character encoding
+#
+# This encoding is based on Unicode's private use area in block 14.
+# Characters not in this file but within specified blocks are considered undefined characters.
+# Any Unicode encoding capable of representing all code points in the rages specified bellow may be used. UTF-8 is recommended.
+# The table bellow has the character blocks for reference.
+# Block E8001 - EFFFD is intended for private use SER-Libras characters and do not have defined characters to any of its code points.
+#
+# +---------+---------+---------------------------------+
+# |  start  |   end   |              block              |
+# +---------+---------+---------------------------------+
+# |  00000  |  DFFFF  | (Unicode-assigned)              |
+# |  E0000  |  E0FFF  | (unassigned)                    |
+# |  E1000  |  E13FF  | special                         |
+# |  E1400  |  E17FF  | numbers and symbols             |
+# |  E1800  |  E7FFF  | words                           |
+# |  E8000  |  EFFFD  | (private use)                   |
+# +---------+---------+---------------------------------+
+#
+# The syntax:
+# Lines that begin with a hash character (#) are ignored, along with empty lines.
+# The file, apart from the hash-commented lines is a comma-separated values file with semicolon separator (;).
+#
+# Each line represents a code point.
+# The first value of each line is the code point in hex for padded to 5 digits, the human-readable "U+" prefix is omitted.
+# The following values are the character names, the fist value shall be taken as the authoritative character name when multiple names are present.
+# This file is encoded in UTF-8.
+
+E1400;10
+E1401;11
