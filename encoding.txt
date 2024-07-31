@@ -12,7 +12,7 @@
 # |  00000  |  DFFFF  | (Unicode-assigned)              |
 # |  E0000  |  E0FFF  | (unassigned)                    |
 # |  E1000  |  E13FF  | special                         |
-# |  E1400  |  E17FF  | numbers and symbols             |
+# |  E1400  |  E17FF  | numbers                         |
 # |  E1800  |  E7FFF  | words                           |
 # |  E8000  |  EFFFD  | (private use)                   |
 # +---------+---------+---------------------------------+
@@ -26,5 +26,15 @@
 # The following values are the character names, the fist value shall be taken as the authoritative character name when multiple names are present.
 # This file is encoded in UTF-8.
 
-E1400;10
-E1401;11
+E1400;0;UM
+E1401;1;DOIS
+E1402;2;TRÊS
+E1403;3;QUATRO
+E1404;4;QUATRO
+E1405;5;CINCO
+E1406;6;SEIS
+E1407;7;SETE
+E1408;8;OITO
+E1409;9;NOVE
+E140A;10;DEZ
+E140B;11;ONZE
