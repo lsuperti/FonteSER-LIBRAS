@@ -19,10 +19,10 @@
 #
 # The syntax:
 # Lines that begin with a hash character (#) are ignored, along with empty lines.
-# The file, apart from the hash-commented lines is a comma-separated values file with semicolon separator (;).
+# The file, apart from the hash-commented lines is a comma-separated values (CSV) file with semicolon separator (;).
 #
 # Each line represents a code point.
-# The first value of each line is the code point in hex for padded to 5 digits, the human-readable "U+" prefix is omitted.
+# The first value of each line is the code point in hex form padded to 5 digits, the human-readable "U+" prefix is omitted.
 # The following values are the character names, the fist value shall be taken as the authoritative character name when multiple names are present.
 # This file is encoded in UTF-8.
 
@@ -38,3 +38,39 @@ E1408;8;OITO
 E1409;9;NOVE
 E140A;10;DEZ
 E140B;11;ONZE
+
+E1800;SEGUNDA FEIRA;SEGUNDA-FEIRA;SEGUNDA_FEIRA
+E1801;TERÇA FEIRA;TERÇA-FEIRA;TERÇA_FEIRA
+E1802;QUARTA FEIRA;QUARTA-FEIRA;QUARTA_FEIRA
+E1803;QUINTA FEIRA;QUINTA-FEIRA;QUINTA_FEIRA
+E1804;SEXTA FEIRA;SEXTA-FEIRA;SEXTA_FEIRA
+E1805;SÁBADO
+E1806;DOMINGO
+E1807;JANEIRO
+E1808;FEVEREIRO
+E1809;MARÇO
+E180A;ABRIL
+E180B;MAIO
+E180C;JUNHO
+E180D;JULHO
+E180E;AGOSTO
+E180F;SETEMBRO
+E1810;OUTUBRO
+E1811;NOVEMBRO
+E1812;DEZEMBRO
+E1813;AZUL
+E1814;PRETO;PRETA
+E1815;CINZA
+E1816;MARROM
+E1817;ROSA
+E1818;BRANCO;BRANCA
+E1819;VERDE
+E181A;ROXO;ROXA
+E181B;LARANJA
+E181C;LILÁS
+E181D;NÚMERO
+E181E;DIA
+E181F;SEMANA
+E1820;MÊS
+E1821;ANO
+E1822;COR

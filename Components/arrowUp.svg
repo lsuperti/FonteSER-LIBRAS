@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="174.99622"
+   height="260.79492"
+   viewBox="0 0 46.301083 69.001989"
+   version="1.1"
+   id="svg58221"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="arrowUp.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview58223"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.4912879"
+     inkscape:cx="-51.633223"
+     inkscape:cy="7.040894"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" /><defs
+     id="defs58218"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath420"><path
+         d="M 591.86957,383.12061 H 908.19696 V 699.448 H 591.86957 Z"
+         clip-rule="evenodd"
+         id="path418" /></clipPath></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-200.5653,-132.89065)"><path
+       id="path5"
+       style="color:#000000;fill:#ff0000;stroke-linecap:round;-inkscape-stroke:none"
+       d="m 223.71688,132.89065 a 3.3072901,3.3072901 0 0 0 -3.30885,3.30833 v 53.03294 L 206.21097,175.0333 a 3.3072901,3.3072901 0 0 0 -2.33784,-0.96893 3.3072901,3.3072901 0 0 0 -2.33991,0.96893 3.3072901,3.3072901 0 0 0 0,4.67568 l 22.18366,22.18366 22.18159,-22.18366 a 3.3072901,3.3072901 0 0 0 0,-4.67568 3.3072901,3.3072901 0 0 0 -4.67775,0 l -14.19707,14.19707 v -53.03139 a 3.3072901,3.3072901 0 0 0 -3.30677,-3.30833 z"
+       transform="matrix(0.99999999,0,0,-0.99999999,-1.1929831e-6,334.78329)" /></g></svg>
