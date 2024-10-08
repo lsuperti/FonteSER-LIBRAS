@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1700600676
-ModificationTime: 1728159399
+ModificationTime: 1728358131
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -2529,18 +2529,23 @@ EndChar
 
 StartChar: period
 Encoding: 46 46 65
-Width: 125
+Width: 175
 Flags: W
-HStem: 62 76<28.7227 96.255>
-VStem: 25 75<65.745 134.255>
+HStem: -59 268
+VStem: -109 268
 LayerCount: 2
 Fore
 SplineSet
-25 100 m 0
- 25 121 42 138 62 138 c 0
- 83 138 100 121 100 100 c 0
- 100 79 83 62 62 62 c 0
- 42 62 25 79 25 100 c 0
+109 191 m 1
+ -91 -9 l 1
+ -109 9 l 1
+ 91 209 l 1
+ 109 191 l 1
+159 141 m 1
+ -41 -59 l 1
+ -59 -41 l 1
+ 141 159 l 1
+ 159 141 l 1
 EndSplineSet
 Validated: 1
 EndChar
