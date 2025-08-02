@@ -7,8 +7,8 @@
    viewBox="0 0 264.58333 264.58333"
    version="1.1"
    id="svg23789"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="SmallE.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="E.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -103,5 +103,6 @@
      transform="translate(-60.343621,-136.98877)"><path
        id="rect1"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.85446"
-       d="M 216.36325 -73.572271 L 263.6043 -73.572271 L 263.6043 -73.571754 L 270.21888 -73.571754 L 270.21888 -73.572271 L 322.1971 -73.572271 L 322.1971 -179.40612 L 216.36325 -179.40612 L 216.36325 -73.572271 z M 222.97835 -80.187371 L 222.97835 -172.79102 L 315.582 -172.79102 L 315.582 -80.187371 L 270.21888 -80.187371 L 270.21888 -117.55201 L 263.6043 -117.55201 L 263.6043 -80.187371 L 222.97835 -80.187371 z "
-       transform="rotate(90)" /></g></svg>
+       d="M 216.36325,-73.572271 H 322.1971 V -179.40612 H 216.36325 Z m 6.6151,-6.6151 V -172.79102 H 315.582 v 92.603649 z"
+       transform="rotate(90)"
+       sodipodi:nodetypes="cccccccccc" /></g></svg>
